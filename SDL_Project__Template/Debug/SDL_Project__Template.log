@@ -1,0 +1,6 @@
+﻿  WindowRender.cpp
+C:\Users\benjy\OneDrive\Desktop\uni shit\Bournemouth uni\obj programming\Duck Gameu\SDL_Project__Template\WindowRender.cpp(64,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\benjy\OneDrive\Desktop\uni shit\Bournemouth uni\obj programming\Duck Gameu\SDL_Project__Template\WindowRender.cpp(65,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\benjy\OneDrive\Desktop\uni shit\Bournemouth uni\obj programming\Duck Gameu\SDL_Project__Template\WindowRender.cpp(66,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\benjy\OneDrive\Desktop\uni shit\Bournemouth uni\obj programming\Duck Gameu\SDL_Project__Template\WindowRender.cpp(67,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SDL_Project__Template.vcxproj -> C:\Users\benjy\OneDrive\Desktop\uni shit\Bournemouth uni\obj programming\Duck Gameu\Debug\SDL_Project__Template.exe
